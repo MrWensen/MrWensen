@@ -1,21 +1,22 @@
 ### Hi there 👋
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrWensen&theme=transparent" />
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrWensen&theme=transparent" />
-</a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrWensen&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrWensen&theme=transparent)
+<p align="center" dir="auto">
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrWensen&amp;theme=transparent&amp;show_icons=true&amp" style="max-width: 100%";>
+  </a>
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrWensen&amp;theme=transparent&amp" style="max-width: 100%;">
+  </a>
+</p>
 
-<a href="https://github.com/MrWensen/iNotionWidget">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrWensen&repo=iNotionWidget&theme=transparent&show_owner=true" />
-</a>
-<a href="https://github.com/MrWensen/MrWensen.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrWensen&repo=MrWensen.github.io&theme=transparent&show_owner=true" />
-</a>
-
+<p align="center" dir="auto">
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrWensen&repo=iNotionWidget&theme=transparent&show_owner=true" />
+  </a>
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrWensen&repo=MrWensen.github.io&theme=transparent&show_owner=true" />
+  </a>
+</p>
 <!--
 **MrWensen/MrWensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
