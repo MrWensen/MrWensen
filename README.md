@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22Hello%2C%20World%22);Cyber%20Hedgehog&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&&color=A733F7&width=435&lines=cout+%3C%3C+%22Hello%2C+world!%22;MrWensen+is+here&center=true&size=25" alt="Typing SVG" />
     </a>
   </div>
   
@@ -24,7 +24,6 @@
 
 <!-- 个人简介 -->
 - 👋 Hi, I’m @MrWensen.
-- 👀 I ’m interest in computer network, server development, AI.
+- 👀 I ’m interest in computer network, server development.
 - 🌱 I’m looking to collaborate on article synchronization assistant.
-- 💞️ I’m looking to collaborate on article synchronization assistant.
 - 📫 How to reach me? Email: itateo@outlook.com
